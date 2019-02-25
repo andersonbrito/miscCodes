@@ -1,6 +1,7 @@
 # Miscellaneous scripts
 
-This repository contains a diverse set scripts (mostly in python and R), useful on Computational Biology projects the involve the following tasks or data types: sequences, phylogenetic tress, protein structures, web data, genomic and general data visualization.
+This repository contains a diverse set of scripts (mostly in python and R), useful in Computational Biology projects the involve the following tasks or data types: sequences, phylogenetic tress, protein structures, web data, genomic and general data visualization.
+
 
 <!---
 ## Getting Started
