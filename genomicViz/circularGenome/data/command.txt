@@ -1,0 +1,1 @@
+circos -conf config/erelgv_div.conf -outputdir images -outputfile example_genome.png
